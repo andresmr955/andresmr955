@@ -1,6 +1,5 @@
 ### Hello, I am Andres Marquez 👋
-![image](![image](![image](https://github.com/andresmr955/andresmr955/assets/84684077/0cb6726a-a615-48af-8587-7a5cede4dedb)
-)
+![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
 
 <!--
 **andresmr955/andresmr955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

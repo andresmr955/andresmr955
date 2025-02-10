@@ -1,5 +1,5 @@
-### Hello, I am 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andres%20Marquez" alt="Imagen 1" width="3000" height="300">
+### Hello, I am 
+![Hello 👋, I am Andres Marquez](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20👋,%20I%20am%20Andres%20Marquez&fontSize=55)
 <img src="https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg" alt="Imagen 2" width="1800" height="550">
 
 

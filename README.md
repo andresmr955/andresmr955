@@ -1,4 +1,5 @@
-### Hello, I am Andres Marquez 👋
+### Hello, I am 👋
+![image](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andres%20Marquez&fontColor=09122C&textBg=false)
 ![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
 
 

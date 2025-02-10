@@ -1,8 +1,16 @@
 ### Hello, I am Andres Marquez 👋
 ![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
 
-<!--
-**andresmr955/andresmr955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+:computer: **Software Developer**
+:pencil: **Content creator**
+:family: **Father's dream**
+
+
+### Contact information
+
+![website](https://portafeuille.vercel.app/#portafolio)
 
 Here are some ideas to get you started:
 

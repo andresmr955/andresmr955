@@ -10,7 +10,6 @@
 
 ### Contact information
 
-![website](https://portafeuille.vercel.app/#portafolio)
 
 Here are some ideas to get you started:
 

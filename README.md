@@ -2,6 +2,14 @@
 ![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
 
 
+About me 
+
+Location: Montreal, Canada
+Email: andresmr955@gmail.com
+Studies: Software Developer
+University: Oracle and Platzi
+
+:star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star:
 
 :computer: **Software Developer**<br>
 :pencil: **Content creator**<br>

@@ -1,5 +1,5 @@
 ### Hello, I am 👋
-![image](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andres%20Marquez&fontColor=0b7dc8&textBg=false)
+![image](https://capsule-render.vercel.app/api?type=waving&height=300&color=0b7dc8&text=Andres%20Marquez&fontColor=f8f9f9&textBg=false)
 ![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
 
 

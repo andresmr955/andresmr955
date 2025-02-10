@@ -4,12 +4,12 @@
 
 About me 
 
-Location: Montreal, Canada
-Email: andresmr955@gmail.com
-Studies: Software Developer
+Location: Montreal, Canada<br>
+Email: andresmr955@gmail.com<br>
+Studies: Software Developer<br>
 University: Oracle and Platzi
 
-:star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star:
+<img src="https://your-image-url.com/line.png" alt="Line" style="width:100%; height:auto;">
 
 :computer: **Software Developer**<br>
 :pencil: **Content creator**<br>

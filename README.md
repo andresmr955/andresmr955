@@ -1,6 +1,7 @@
 ### Hello, I am 👋
-![image](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andres%20Marquez)
-![image](https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andres%20Marquez" alt="Imagen 1" width="300" height="300">
+<img src="https://www.lnbinc.ca/lnb/wp-content/uploads/2021/11/software_dev-scaled.jpg" alt="Imagen 2" width="300" height="300">
+
 
 
 About me 

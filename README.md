@@ -4,18 +4,17 @@
 
 About me 
 
-Location: Montreal, Canada<br>
-Email: andresmr955@gmail.com<br>
-Studies: Software Developer<br>
-University: Oracle and Platzi
+📍Location: Montreal, Canada<br>
+📧Email: andresmr955@gmail.com<br>
+🧑‍🏫Studies: Software Developer<br>
+🏫University: Oracle and Platzi
 
-<img src="https://your-image-url.com/line.png" alt="Line" style="width:100%; height:auto;">
 
 :computer: **Software Developer**<br>
 :pencil: **Content creator**<br>
 :family: **Father's dream**
 
-
+---
 ### Contact information
 
 ![website](https://img.shields.io/website?url=https%3A%2F%2Fportafeuille.vercel.app%2F%23portafolio)

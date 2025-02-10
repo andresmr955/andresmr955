@@ -3,13 +3,16 @@
 
 
 
-:computer: **Software Developer**
-:pencil: **Content creator**
+:computer: **Software Developer**<br>
+:pencil: **Content creator**<br>
 :family: **Father's dream**
 
 
 ### Contact information
 
+![website](https://img.shields.io/website?url=https%3A%2F%2Fportafeuille.vercel.app%2F%23portafolio)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/andresmr955/andresmr955)
 
 Here are some ideas to get you started:
 

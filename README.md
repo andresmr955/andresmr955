@@ -49,7 +49,8 @@ About me
 
 ---
 ### :zap: Rencently activity
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:lastupdate-->
 
 ---
 ### 📇 Let's Connect on LinkedIn

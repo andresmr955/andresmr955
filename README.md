@@ -50,7 +50,7 @@ About me
 ---
 ### :zap: Rencently activity
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:lastupdate-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 ### 📇 Let's Connect on LinkedIn

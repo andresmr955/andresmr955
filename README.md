@@ -36,8 +36,8 @@ About me
 
 ### 🛠️ **Tools & Frameworks**
 
-![Static Badge](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=Django&labelColor=black)
-![Static Badge](https://img.shields.io/badge/DJANGOREST-a30000?style=for-the-badge&logo=DJANGO&labelColor=black)
+![django](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=Django&labelColor=black)
+![djangoRest](https://img.shields.io/badge/DJANGOREST-a30000?style=for-the-badge&logo=DJANGO&labelColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

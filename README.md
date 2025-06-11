@@ -53,14 +53,14 @@ About me
 ---
 ### :zap: Rencently activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [andresmr955/PythonFundametals](https://github.com/andresmr955/PythonFundametals)<br>
-2. ⬆️ Pushed 1 commit(s) to [andresmr955/PythonFundametals](https://github.com/andresmr955/PythonFundametals)<br>
+1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+2. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)<br>
 3. ⬆️ Pushed 1 commit(s) to [andresmr955/PythonFundametals](https://github.com/andresmr955/PythonFundametals)<br>
 4. ⬆️ Pushed 1 commit(s) to [andresmr955/PythonFundametals](https://github.com/andresmr955/PythonFundametals)<br>
 5. ⬆️ Pushed 1 commit(s) to [andresmr955/PythonFundametals](https://github.com/andresmr955/PythonFundametals)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 11th, 2025, 1:04:13 AM
+Last Updated: Wednesday, June 11th, 2025, 12:26:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---

@@ -54,13 +54,13 @@ About me
 ### :zap: Rencently activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [andresmr955/FRECODECAMP](https://github.com/andresmr955/FRECODECAMP)<br>
-2. ⬆️ Pushed 1 commit(s) to [andresmr955/RESTAURANT](https://github.com/andresmr955/RESTAURANT)<br>
+2. ⬆️ Pushed 1 commit(s) to [andresmr955/FRECODECAMP](https://github.com/andresmr955/FRECODECAMP)<br>
 3. ⬆️ Pushed 1 commit(s) to [andresmr955/RESTAURANT](https://github.com/andresmr955/RESTAURANT)<br>
 4. ⬆️ Pushed 1 commit(s) to [andresmr955/RESTAURANT](https://github.com/andresmr955/RESTAURANT)<br>
-5. ⭐ Starred [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms)<br>
+5. ⬆️ Pushed 1 commit(s) to [andresmr955/RESTAURANT](https://github.com/andresmr955/RESTAURANT)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 20th, 2025, 1:03:52 AM
+Last Updated: Friday, June 20th, 2025, 12:25:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---

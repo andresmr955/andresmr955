@@ -53,14 +53,14 @@ About me
 ---
 ### :zap: Rencently activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [andresmr955/FRECODECAMP](https://github.com/andresmr955/FRECODECAMP)<br>
-2. ⬆️ Pushed 1 commit(s) to [andresmr955/RPG](https://github.com/andresmr955/RPG)<br>
-3. ⬆️ Pushed 1 commit(s) to [andresmr955/RPG](https://github.com/andresmr955/RPG)<br>
-4. ⬆️ Pushed 1 commit(s) to [andresmr955/Portafeuille](https://github.com/andresmr955/Portafeuille)<br>
-5. ⬆️ Pushed 1 commit(s) to [andresmr955/Portafeuille](https://github.com/andresmr955/Portafeuille)<br>
+1. ⬆️ Pushed 3 commit(s) to [andresmr955/d-m-nagements](https://github.com/andresmr955/d-m-nagements)<br>
+2. ⬆️ Pushed 1 commit(s) to [andresmr955/d-m-nagements](https://github.com/andresmr955/d-m-nagements)<br>
+3. ⬆️ Pushed 1 commit(s) to [andresmr955/d-m-nagements](https://github.com/andresmr955/d-m-nagements)<br>
+4. ⬆️ Pushed 1 commit(s) to [andresmr955/d-m-nagements](https://github.com/andresmr955/d-m-nagements)<br>
+5. ⬆️ Pushed 1 commit(s) to [andresmr955/d-m-nagements](https://github.com/andresmr955/d-m-nagements)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 23rd, 2025, 1:08:45 PM
+Last Updated: Tuesday, June 24th, 2025, 1:04:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
